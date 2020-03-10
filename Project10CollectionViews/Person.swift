@@ -1,5 +1,5 @@
 //
-//  PersonCell.swift
+//  Person.swift
 //  Project10CollectionViews
 //
 //  Created by Ishaq Amin on 10/03/2020.
@@ -8,11 +8,6 @@
 
 import UIKit
 
-class PersonCell: UICollectionViewCell {
-    
-    @IBOutlet var imageView: UIImageView!
-    @IBOutlet var name: UILabel!
-    
+class Person: NSObject {
 
-    
 }
